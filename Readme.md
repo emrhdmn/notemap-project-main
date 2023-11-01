@@ -34,7 +34,7 @@ To set up the project on your local machine, follow these steps:
 
 ## Deploy
 
-
+https://emrhdmn.github.io/notemap-project-main/
 
 ## Screen
 
